@@ -1,10 +1,22 @@
-# Proyecto FinTrack
+# FinTrack 🏦
 
-Este proyecto es una aplicación web para la gestión financiera personal. Incluye funcionalidades de registro, inicio de sesión, gestión de presupuestos, tienda de recursos financieros y contacto.
+![Proyecto FinTrack](assets/img/logo.png)
+
+**FinTrack** es una aplicación web para la gestión financiera personal, diseñada para ayudarte a organizar tus cuentas, presupuestos y acceder a recursos financieros de manera sencilla e intuitiva.
 
 ---
 
-## Estructura del proyecto
+## 🚀 Tecnologías utilizadas
+
+- **HTML5** – Estructura de páginas web.
+- **CSS3 / Bootstrap** – Estilos y diseño responsivo.
+- **JavaScript** – Lógica de la aplicación y manejo del DOM.
+- **LocalStorage** – Almacenamiento de datos del usuario.
+- **Multimedia** – Uso de imágenes y videos para mejorar la experiencia.
+
+---
+
+## 📁 Estructura del proyecto
 
 ```text
 assets/
@@ -25,61 +37,51 @@ assets/
 ├── store.html        # Tienda de recursos financieros
 ├── contact.html      # Formulario de contacto
 └── home-sv.html      # Variante de inicio (posiblemente localizada)
-Descripción de funcionalidades
+🎯 Funcionalidades
+Inicio de sesión y registro: Gestión de usuarios con validación.
 
-index.html: Página de bienvenida con navegación hacia las distintas secciones.
+Dashboard financiero: Control de cuentas y presupuestos personales.
 
-login.html: Permite a los usuarios iniciar sesión.
+Tienda de recursos: Acceso a materiales y herramientas de educación financiera.
 
-register.html: Permite registrar nuevos usuarios.
+Formulario de contacto: Envío de consultas o soporte.
 
-budget.html: Sección para crear y gestionar presupuestos personales.
+Multimedia: Uso de imágenes y videos explicativos para mejorar la experiencia del usuario.
 
-store.html: Tienda de recursos financieros.
-
-contact.html: Formulario de contacto para soporte o consultas.
-
-home-sv.html: Variante de la página de inicio, posiblemente localizada para otro idioma o versión.
-
-Carpeta assets/
-
-img/: Contiene todas las imágenes usadas en la interfaz.
-
-video/: Contiene videos relacionados con la aplicación.
-
-js/: Scripts JavaScript separados por funcionalidad:
-
-script.js: Funciones generales utilizadas en toda la app.
-
-script-login.js: Lógica de inicio de sesión.
-
-script-register.js: Lógica de registro de usuarios.
-
-script-cuentas.js: Gestión de cuentas y presupuestos.
-
-store-script.js: Funcionalidad específica de la tienda.
-
-Cómo usar
-
+💻 Cómo usar el proyecto
 Clonar el repositorio:
 
+bash
+Copiar código
 git clone <URL_DEL_REPOSITORIO>
+Abrir index.html en un navegador web.
+
+Navegar por la aplicación utilizando el menú.
+
+🛠️ Próximas mejoras
+Integración con bases de datos externas.
+
+Mejorar la experiencia móvil y responsiva.
+
+Añadir autenticación segura con backend.
+
+Implementar historial de presupuestos y transacciones.
+
+🤝 Contribuciones
+¡Las contribuciones son bienvenidas!
+Puedes abrir un issue o enviar un pull request para sugerir mejoras o reportar errores.
+
+📜 Licencia
+Este proyecto está bajo la Licencia MIT.
+Consulta el archivo LICENSE para más información.
+
+📸 Capturas de pantalla
 
 
-Abrir index.html en un navegador para iniciar la aplicación.
 
-Navegar entre las secciones utilizando el menú de la aplicación.
+css
+Copiar código
 
-Contribuciones
+Si quieres, puedo hacer **una versión aún más “bonita” con badges de GitHub**, un logo centralizado y miniaturas de la estructura con emojis para que destaque más visualmente en tu repositorio.  
 
-Las contribuciones son bienvenidas. Por favor, abre un pull request o un issue si deseas sugerir mejoras o reportar errores.
-
-Licencia
-
-Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
-
-
-Si quieres, puedo hacer una **versión aún más visual**, con badges de GitHub, secciones de tecnologías usadas y miniaturas de la estructura de archivos, que queda muy profesional para un repositorio público.  
-
-¿Quieres que haga esa versión también?
-
+¿Quieres que haga esa versión?
