@@ -25,26 +25,61 @@ assets/
 ├── store.html        # Tienda de recursos financieros
 ├── contact.html      # Formulario de contacto
 └── home-sv.html      # Variante de inicio (posiblemente localizada)
----
+Descripción de funcionalidades
 
-# Cómo Ejecutar
-- Clona el repositorio:
-git clone https://github.com/tu-usuario/Fin-Track.git
-- Abre index.html en tu navegador.
-- Asegúrate de que los archivos JS y multimedia estén correctamente enlazados.
-🧠 Funcionalidades Clave
-- ✅ Registro e inicio de sesión con validación
-- ✅ Visualización de consejos financieros y contenido educativo
-- ✅ Video introductorio embebido
-- ✅ Gestión de presupuestos personales
-- ✅ Acceso a tienda de recursos financieros
-- ✅ Diseño responsivo con Bootstrap 5
-🛠️ Tecnologías Utilizadas
-|  |  | 
-|  |  | 
-|  |  | 
-|  |  | 
+index.html: Página de bienvenida con navegación hacia las distintas secciones.
+
+login.html: Permite a los usuarios iniciar sesión.
+
+register.html: Permite registrar nuevos usuarios.
+
+budget.html: Sección para crear y gestionar presupuestos personales.
+
+store.html: Tienda de recursos financieros.
+
+contact.html: Formulario de contacto para soporte o consultas.
+
+home-sv.html: Variante de la página de inicio, posiblemente localizada para otro idioma o versión.
+
+Carpeta assets/
+
+img/: Contiene todas las imágenes usadas en la interfaz.
+
+video/: Contiene videos relacionados con la aplicación.
+
+js/: Scripts JavaScript separados por funcionalidad:
+
+script.js: Funciones generales utilizadas en toda la app.
+
+script-login.js: Lógica de inicio de sesión.
+
+script-register.js: Lógica de registro de usuarios.
+
+script-cuentas.js: Gestión de cuentas y presupuestos.
+
+store-script.js: Funcionalidad específica de la tienda.
+
+Cómo usar
+
+Clonar el repositorio:
+
+git clone <URL_DEL_REPOSITORIO>
 
 
-📬 Contacto
-¿Tienes dudas o sugerencias? Puedes escribirnos a info@fintrack.com o usar el formulario en contact.html.
+Abrir index.html en un navegador para iniciar la aplicación.
+
+Navegar entre las secciones utilizando el menú de la aplicación.
+
+Contribuciones
+
+Las contribuciones son bienvenidas. Por favor, abre un pull request o un issue si deseas sugerir mejoras o reportar errores.
+
+Licencia
+
+Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
+
+
+Si quieres, puedo hacer una **versión aún más visual**, con badges de GitHub, secciones de tecnologías usadas y miniaturas de la estructura de archivos, que queda muy profesional para un repositorio público.  
+
+¿Quieres que haga esa versión también?
+
