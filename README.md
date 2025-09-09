@@ -1,7 +1,10 @@
 💼 Fin-Track – Tu gestor financiero personal
-📌 Descripción#
-Fin-Track es una aplicación web diseñada para ayudarte a organizar tus finanzas de forma clara y sin estrés. Desde el registro de gastos hasta el acceso a recursos financieros, esta plataforma busca empoderar a los usuarios con herramientas prácticas y consejos útiles.#  Está construida con HTML, JavaScript y Bootstrap 5, y sigue una estructura modular que facilita su mantenimiento y expansión.# 
-🗂️ Estructura del Proyecto# 
+📌 Descripción
+Fin-Track es una aplicación web diseñada para ayudarte a organizar tus finanzas de forma clara y sin estrés. Desde el registro de gastos hasta el acceso a recursos financieros, esta plataforma busca empoderar a los usuarios con herramientas prácticas y consejos útiles.
+Está construida con HTML, JavaScript y Bootstrap 5, y sigue una estructura modular que facilita su mantenimiento y expansión.
+
+🗂️ Estructura del Proyecto
+
 # Proyecto FinTrack
 
 Este proyecto es una aplicación web para la gestión financiera personal. Incluye funcionalidades de registro, inicio de sesión, gestión de presupuestos, tienda de recursos financieros y contacto.
