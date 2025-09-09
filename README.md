@@ -25,4 +25,26 @@ assets/
 ├── store.html        # Tienda de recursos financieros
 ├── contact.html      # Formulario de contacto
 └── home-sv.html      # Variante de inicio (posiblemente localizada)
+---
 
+# Cómo Ejecutar
+- Clona el repositorio:
+git clone https://github.com/tu-usuario/Fin-Track.git
+- Abre index.html en tu navegador.
+- Asegúrate de que los archivos JS y multimedia estén correctamente enlazados.
+🧠 Funcionalidades Clave
+- ✅ Registro e inicio de sesión con validación
+- ✅ Visualización de consejos financieros y contenido educativo
+- ✅ Video introductorio embebido
+- ✅ Gestión de presupuestos personales
+- ✅ Acceso a tienda de recursos financieros
+- ✅ Diseño responsivo con Bootstrap 5
+🛠️ Tecnologías Utilizadas
+|  |  | 
+|  |  | 
+|  |  | 
+|  |  | 
+
+
+📬 Contacto
+¿Tienes dudas o sugerencias? Puedes escribirnos a info@fintrack.com o usar el formulario en contact.html.
