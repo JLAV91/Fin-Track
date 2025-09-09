@@ -13,7 +13,7 @@ function iniciarSesion(event) {
     if (emailLogin === emailRegistrado && passwordLogin === passwordRegistrado) {
         msgDiv.innerHTML = `<div class="alert alert-success">Bienvenido, has iniciado sesión 🎉</div>`;
         setTimeout(() => {
-            window.location.href = "perfil.html";
+            window.location.href = "home-sv.html";
         }, 1500);
     } else {
         msgDiv.innerHTML = `<div class="alert alert-danger">Correo o contraseña incorrectos ❌</div>`;
