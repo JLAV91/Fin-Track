@@ -36,7 +36,8 @@ assets/
 ├── budget.html       # Sección para gestionar presupuestos
 ├── store.html        # Tienda de recursos financieros
 ├── contact.html      # Formulario de contacto
-└── home-sv.html      # Variante de inicio (posiblemente localizada)
+└── home-sv.html      # Variante de inicio (posiblemente localizada)```
+```  
 🎯 Funcionalidades
 Inicio de sesión y registro: Gestión de usuarios con validación.
 
