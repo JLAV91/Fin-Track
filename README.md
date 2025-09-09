@@ -38,7 +38,7 @@ assets/
 ├── contact.html      # Formulario de contacto
 └── home-sv.html      # Variante de inicio (posiblemente localizada)```
 ```  
-🎯 Funcionalidades
+## 🎯 Funcionalidades
 Inicio de sesión y registro: Gestión de usuarios con validación.
 
 Dashboard financiero: Control de cuentas y presupuestos personales.
@@ -49,40 +49,32 @@ Formulario de contacto: Envío de consultas o soporte.
 
 Multimedia: Uso de imágenes y videos explicativos para mejorar la experiencia del usuario.
 
-💻 Cómo usar el proyecto
-Clonar el repositorio:
+## 💻 Cómo usar el proyecto
+- Clonar el repositorio:
 
-bash
+## bash
 Copiar código
+```
 git clone <URL_DEL_REPOSITORIO>
-Abrir index.html en un navegador web.
+```
+## Abrir index.html en un navegador web.
 
-Navegar por la aplicación utilizando el menú.
+## Navegar por la aplicación utilizando el menú.
 
-🛠️ Próximas mejoras
-Integración con bases de datos externas.
+## 🛠️ Próximas mejoras
+- Integración con bases de datos externas.
 
-Mejorar la experiencia móvil y responsiva.
+- Mejorar la experiencia móvil y responsiva.
 
-Añadir autenticación segura con backend.
+- Añadir autenticación segura con backend.
 
-Implementar historial de presupuestos y transacciones.
+- Implementar historial de presupuestos y transacciones.
 
-🤝 Contribuciones
-¡Las contribuciones son bienvenidas!
+## 🤝 Contribuciones
+- ¡Las contribuciones son bienvenidas!
 Puedes abrir un issue o enviar un pull request para sugerir mejoras o reportar errores.
 
-📜 Licencia
-Este proyecto está bajo la Licencia MIT.
+## 📜 Licencia
+- Este proyecto está bajo la Licencia MIT.
 Consulta el archivo LICENSE para más información.
 
-📸 Capturas de pantalla
-
-
-
-css
-Copiar código
-
-Si quieres, puedo hacer **una versión aún más “bonita” con badges de GitHub**, un logo centralizado y miniaturas de la estructura con emojis para que destaque más visualmente en tu repositorio.  
-
-¿Quieres que haga esa versión?
